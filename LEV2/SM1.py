@@ -45,7 +45,7 @@ def reverse_word(x):
         s = s+reverse(words[kk])+' '
     return s
 
-x = 'hold your horses'
+x = 'github is fun'
 #print(x)
 x_even_odd = even_odd_swap(x)
 print(x_even_odd)
